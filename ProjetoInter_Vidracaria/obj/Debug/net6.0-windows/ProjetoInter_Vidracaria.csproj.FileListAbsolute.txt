@@ -1,0 +1,224 @@
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.Form1.resources
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmAgenCadEst.resources
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.csproj.GenerateResource.cache
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.AssemblyInfoInputs.cache
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.AssemblyInfo.cs
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.csproj.CoreCompileInputs.cache
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.exe
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.deps.json
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.runtimeconfig.json
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.dll
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.pdb
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.dll
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\obj\Debug\net6.0-windows\refint\ProjetoInter_Vidracaria.dll
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.pdb
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.genruntimeconfig.cache
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\obj\Debug\net6.0-windows\ref\ProjetoInter_Vidracaria.dll
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmCaixa.resources
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.csproj.AssemblyReference.cache
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.csproj.CopyComplete
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmAgendamento.resources
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmClientes.resources
+C:\Users\bu\Documents\4SEM\Exercicios\Projeto\ProjetoInter_Vidracaria\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmProdutos.resources
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.csproj.AssemblyReference.cache
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.Form1.resources
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmAgenCadEst.resources
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmAgendamento.resources
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmClientes.resources
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmProdutos.resources
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmSobre.resources
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.csproj.GenerateResource.cache
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.AssemblyInfoInputs.cache
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.AssemblyInfo.cs
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.csproj.CoreCompileInputs.cache
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\refint\ProjetoInter_Vidracaria.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.pdb
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.exe
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.deps.json
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.runtimeconfig.json
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.pdb
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\Irony.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.csproj.CopyComplete
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.genruntimeconfig.cache
+C:\Users\bu\Documents\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ref\ProjetoInter_Vidracaria.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.exe
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.deps.json
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.runtimeconfig.json
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.pdb
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\Irony.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.csproj.AssemblyReference.cache
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.Form1.resources
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmAgenCadEst.resources
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmAgendamento.resources
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmClientes.resources
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmProdutos.resources
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmSobre.resources
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.csproj.GenerateResource.cache
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.AssemblyInfoInputs.cache
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.AssemblyInfo.cs
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.csproj.CoreCompileInputs.cache
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.csproj.CopyComplete
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\refint\ProjetoInter_Vidracaria.dll
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.pdb
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.genruntimeconfig.cache
+C:\Users\bu\Documents\30_10_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ref\ProjetoInter_Vidracaria.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.exe
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.deps.json
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.runtimeconfig.json
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.pdb
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\Irony.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.csproj.AssemblyReference.cache
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.Form1.resources
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmAgenCadEst.resources
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmAgendamento.resources
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmClientes.resources
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmProdutos.resources
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmSobre.resources
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.csproj.GenerateResource.cache
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.AssemblyInfoInputs.cache
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.AssemblyInfo.cs
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.csproj.CoreCompileInputs.cache
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.csproj.CopyComplete
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\refint\ProjetoInter_Vidracaria.dll
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.pdb
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.genruntimeconfig.cache
+C:\Users\bu\Documents\07_11_23\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ref\ProjetoInter_Vidracaria.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.exe
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.deps.json
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.runtimeconfig.json
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ProjetoInter_Vidracaria.pdb
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\Irony.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.csproj.AssemblyReference.cache
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.Form1.resources
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmAgenCadEst.resources
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmAgendamento.resources
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmClientes.resources
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmProdutos.resources
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.FrmSobre.resources
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.csproj.GenerateResource.cache
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.AssemblyInfoInputs.cache
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.AssemblyInfo.cs
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.csproj.CoreCompileInputs.cache
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.csproj.CopyComplete
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\refint\ProjetoInter_Vidracaria.dll
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.pdb
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ProjetoInter_Vidracaria.genruntimeconfig.cache
+C:\Users\bu\Documents\07_11_23 - Copia\ProjetoInter_VidracariaTeste\obj\Debug\net6.0-windows\ref\ProjetoInter_Vidracaria.dll
